@@ -3,7 +3,7 @@ Teste Estágio
 Questão 1: O valor da Variável SOMA será 14, ou seja, SOMA = 0 + 14.
 
 Questão 2:
-[contributing](https://github.com/devAndreNicolas/Est-gio-Teste-R.B/edit/main/README.md))
+[contributing](https://github.com/devAndreNicolas/Est-gio-Teste-R.B/edit/main/README.md)
 
 Questão 3:
 
