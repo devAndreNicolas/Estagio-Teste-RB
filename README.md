@@ -28,5 +28,5 @@ Na segunda ida trabalharia com a lógica "do que sobrou". Eu iria apenas ligar o
 lâmpada apagada e quente.
 
 Questão 5:
-[CONTRIBUTING](StringReversa.py)
+
 
